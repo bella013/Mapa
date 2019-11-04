@@ -1,0 +1,9 @@
+.borda{
+	text-shadow: 2px 2px black;
+}
+
+.cidades{
+	flex-direction: row;
+	justify-content: center;
+    align-items: center
+}
